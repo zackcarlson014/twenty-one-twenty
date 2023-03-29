@@ -1,0 +1,14 @@
+{
+  "resourceName": "2120storage",
+  "policyUUID": "b2344251",
+  "bucketName": "twentyonetwentyafca0052e1d94a6ea902b31cb4a0b7f4",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
